@@ -1,5 +1,5 @@
-# Algoprog-Final-Project
-My Algoprog final project is a ryhtym game called Friday Night Fightin'
+
+This project is a ryhtym game called Friday Night Fightin'
 In order to run it, python and pygame must be installed. 
 
 HOW TO PLAY
